@@ -1,1 +1,1 @@
-"# Kendo-Sword-Trainer" 
+## Kendo-Sword-Trainer 
